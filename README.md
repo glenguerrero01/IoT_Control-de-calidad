@@ -2,7 +2,8 @@
 Respositorio código actividad IoT control de calidad
 
 Proyecto de la asignatura **IoT y gemelos digitales**. Se entrenó un modelo de visión por computadora en **Teachable Machine** para clasificar botellas como **OK (con tapa)** o **Defectuoso (sin tapa)**, y lo conecté a un **gemelo digital en Ubidots** mediante un notebook de Python que clasifica en tiempo real desde la webcam y envía el resultado a un dashboard con genmelo digital en Ubidots.
-
+## Video funcionamiento
+https://youtu.be/1_sOn2W7N7k
 ---
 
 ## Objetivo
