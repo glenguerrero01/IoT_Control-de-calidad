@@ -1,0 +1,2 @@
+0 Botella OK
+1 Botella not ok
